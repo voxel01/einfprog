@@ -8,7 +8,7 @@ namespace Konto20121026
     public class Konto
     {
         //Saldo des Kontos
-        private double saldo = 0;
+        protected double saldo = 0;
         //Zinssatz der bei dem Konto angewandt wird
         private double zinssatz = 0;
         //Inhaber des Kontos
