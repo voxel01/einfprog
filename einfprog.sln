@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1O1 Ticketautomat", "T1O1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1O2 Quadrieren", "T1O2\T1O2 Quadrieren.csproj", "{9A0EC791-B8B8-46D3-9CA5-0129B3A91CDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2H2", "T2H2\T2H2.csproj", "{71494D8A-AF07-4732-8D6A-8DA18229B0E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -97,6 +99,10 @@ Global
 		{9A0EC791-B8B8-46D3-9CA5-0129B3A91CDC}.Debug|x86.Build.0 = Debug|x86
 		{9A0EC791-B8B8-46D3-9CA5-0129B3A91CDC}.Release|x86.ActiveCfg = Release|x86
 		{9A0EC791-B8B8-46D3-9CA5-0129B3A91CDC}.Release|x86.Build.0 = Release|x86
+		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Debug|x86.ActiveCfg = Debug|x86
+		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Debug|x86.Build.0 = Debug|x86
+		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Release|x86.ActiveCfg = Release|x86
+		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
