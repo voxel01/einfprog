@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1O2 Quadrieren", "T1O2\T1O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2H2", "T2H2\T2H2.csproj", "{71494D8A-AF07-4732-8D6A-8DA18229B0E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2K6", "T2K6\T2K6.csproj", "{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -103,6 +105,10 @@ Global
 		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Debug|x86.Build.0 = Debug|x86
 		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Release|x86.ActiveCfg = Release|x86
 		{71494D8A-AF07-4732-8D6A-8DA18229B0E7}.Release|x86.Build.0 = Release|x86
+		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Debug|x86.ActiveCfg = Debug|x86
+		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Debug|x86.Build.0 = Debug|x86
+		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Release|x86.ActiveCfg = Release|x86
+		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
