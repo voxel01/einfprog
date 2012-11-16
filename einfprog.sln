@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2H2", "T2H2\T2H2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2K6", "T2K6\T2K6.csproj", "{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliothek", "Bibliothek\Bibliothek.csproj", "{7CEFCDBD-69E2-4A19-A22A-5138B75FCC04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD", "CD\CD.csproj", "{FB77E714-9E24-4FB2-A2F2-A686E6426AC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,6 +113,14 @@ Global
 		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Debug|x86.Build.0 = Debug|x86
 		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Release|x86.ActiveCfg = Release|x86
 		{A806FC1D-C2E2-4486-90F5-25C28E9EA7A9}.Release|x86.Build.0 = Release|x86
+		{7CEFCDBD-69E2-4A19-A22A-5138B75FCC04}.Debug|x86.ActiveCfg = Debug|x86
+		{7CEFCDBD-69E2-4A19-A22A-5138B75FCC04}.Debug|x86.Build.0 = Debug|x86
+		{7CEFCDBD-69E2-4A19-A22A-5138B75FCC04}.Release|x86.ActiveCfg = Release|x86
+		{7CEFCDBD-69E2-4A19-A22A-5138B75FCC04}.Release|x86.Build.0 = Release|x86
+		{FB77E714-9E24-4FB2-A2F2-A686E6426AC4}.Debug|x86.ActiveCfg = Debug|x86
+		{FB77E714-9E24-4FB2-A2F2-A686E6426AC4}.Debug|x86.Build.0 = Debug|x86
+		{FB77E714-9E24-4FB2-A2F2-A686E6426AC4}.Release|x86.ActiveCfg = Release|x86
+		{FB77E714-9E24-4FB2-A2F2-A686E6426AC4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
